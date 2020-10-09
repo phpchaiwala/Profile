@@ -1,0 +1,34 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: gray;
+}
+.left{
+	background: white;
+	height: 800px;
+	position: relative;
+	top: 40px;
+}
+
+.right{
+	background: white;
+	height: 800px;
+	position: relative;
+	top: 40px;
+	margin-left: 10px;
+}
+.img{
+	background-image: url('farooq.jpg');
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.personal-detail ul{
+	list-style: none;
+	position: relative;
+	top: 20px;
+	margin-left: 30px;
+	font-weight: bold;
+}
